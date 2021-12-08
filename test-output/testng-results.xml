@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-08T21:56:57 IST" name="Default suite" finished-at="2021-12-08T21:57:06 IST" duration-ms="9478">
+    <groups>
+      <group name="regression">
+        <method signature="Calculator.Add()[pri:4, instance:MainScript_calculator.Calculator@71687585]" name="Add" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Div()[pri:3, instance:MainScript_calculator.Calculator@71687585]" name="Div" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Mul()[pri:2, instance:MainScript_calculator.Calculator@71687585]" name="Mul" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Sub()[pri:5, instance:MainScript_calculator.Calculator@71687585]" name="Sub" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.browse()[pri:1, instance:MainScript_calculator.Calculator@71687585]" name="browse" class="MainScript_calculator.Calculator"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Calculator.Add()[pri:4, instance:MainScript_calculator.Calculator@71687585]" name="Add" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Div()[pri:3, instance:MainScript_calculator.Calculator@71687585]" name="Div" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Mul()[pri:2, instance:MainScript_calculator.Calculator@71687585]" name="Mul" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.Sub()[pri:5, instance:MainScript_calculator.Calculator@71687585]" name="Sub" class="MainScript_calculator.Calculator"/>
+        <method signature="Calculator.browse()[pri:1, instance:MainScript_calculator.Calculator@71687585]" name="browse" class="MainScript_calculator.Calculator"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-12-08T21:56:57 IST" name="Default test" finished-at="2021-12-08T21:57:06 IST" duration-ms="9478">
+      <class name="MainScript_calculator.Calculator">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:56:57 IST" name="initialize" finished-at="2021-12-08T21:56:59 IST" duration-ms="1853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="browse()[pri:1, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:56:59 IST" name="browse" finished-at="2021-12-08T21:57:03 IST" duration-ms="3680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse -->
+        <test-method signature="Mul()[pri:2, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:57:03 IST" name="Mul" finished-at="2021-12-08T21:57:03 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul -->
+        <test-method signature="Div()[pri:3, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:57:03 IST" name="Div" finished-at="2021-12-08T21:57:04 IST" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method signature="Add()[pri:4, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:57:04 IST" name="Add" finished-at="2021-12-08T21:57:05 IST" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method signature="Sub()[pri:5, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:57:05 IST" name="Sub" finished-at="2021-12-08T21:57:06 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:MainScript_calculator.Calculator@71687585]" started-at="2021-12-08T21:57:06 IST" name="quit" finished-at="2021-12-08T21:57:06 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- MainScript_calculator.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
