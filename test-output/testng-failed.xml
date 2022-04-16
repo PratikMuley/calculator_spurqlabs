@@ -3,12 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MainScript_calculator.Calculator">
+      <class name="Runner_main.MainScript">
         <methods>
-          <include name="Sub"/>
+          <include name="browse"/>
+          <include name="login_fun"/>
           <include name="initialize"/>
+          <include name="quit"/>
         </methods>
-      </class> <!-- MainScript_calculator.Calculator -->
+      </class> <!-- Runner_main.MainScript -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

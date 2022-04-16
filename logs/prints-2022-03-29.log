@@ -1,0 +1,138 @@
+ 03-29-2022 23:21:32.023 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:21:34.358 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:21:35.057 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:21:37.456 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:21:40.149 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:21:42.352 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:21:42.539 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:21:54.044 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:23:26.467 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:23:29.959 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:23:30.958 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:23:31.083 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:23:31.995 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:23:34.472 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:23:35.118 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:23:37.286 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:23:40.216 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:23:42.076 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:23:52.122 [main] ERROR Base.base - Not Entering data for searching
+ 03-29-2022 23:24:00.510 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:24:02.190 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:24:03.691 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:24:04.748 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:24:05.168 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:24:06.160 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:24:08.585 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:24:09.267 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:24:11.366 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:24:14.078 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:24:15.968 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:24:16.231 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:24:27.494 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:29:18.435 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:29:21.428 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:29:22.437 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:29:22.582 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:29:23.779 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:29:26.186 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:29:26.940 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:29:28.936 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:29:32.037 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:29:33.736 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:29:43.781 [main] ERROR Base.base - Not Entering data for searching
+ 03-29-2022 23:29:47.734 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:29:50.495 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:29:51.541 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:29:51.675 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:29:52.917 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:29:53.851 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:29:56.311 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:29:57.035 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:29:59.162 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:30:02.610 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:30:04.755 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:30:14.799 [main] ERROR Base.base - Not Entering data for searching
+ 03-29-2022 23:30:23.189 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:30:24.858 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:30:26.653 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:30:27.750 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:30:28.284 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:30:29.297 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:30:31.721 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:30:32.360 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:30:34.578 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:30:37.912 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:30:39.673 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:30:39.834 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:30:41.977 [main] ERROR Base.base - Not Entering data for searching
+ 03-29-2022 23:30:52.021 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:31:01.251 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:31:04.231 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:31:05.231 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:31:05.344 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:31:06.588 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:31:08.983 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:31:09.869 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:31:12.297 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:31:15.377 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:31:17.135 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:31:17.331 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:31:28.623 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:31:54.336 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:31:57.123 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:31:57.956 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:31:58.077 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:31:58.894 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:32:01.569 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:32:02.279 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:32:04.450 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:32:18.751 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:32:20.534 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:32:20.744 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:32:32.046 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:33:10.106 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:33:12.914 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:33:13.966 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:33:14.089 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:33:15.269 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:33:17.762 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:33:18.479 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:33:20.656 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:33:23.573 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:33:25.859 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:33:26.264 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:33:37.608 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:36:59.772 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:37:02.752 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:37:03.833 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:37:04.237 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:37:05.222 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:37:07.474 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:37:08.281 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:37:10.769 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:37:14.009 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:37:15.959 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:37:16.602 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:37:27.984 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:38:02.697 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:38:06.444 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:38:07.525 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:38:07.667 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:38:08.962 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:38:11.318 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:38:12.035 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:38:14.270 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:38:17.180 [main] INFO  Base.base - smartphones
+ 03-29-2022 23:38:19.060 [main] INFO  Base.base - redmi select
+ 03-29-2022 23:38:19.232 [main] INFO  Base.base - 32 gb select
+ 03-29-2022 23:38:30.660 [main] ERROR Base.base - Not validated
+ 03-29-2022 23:40:16.731 [main] INFO  Base.base - Trying to launch the website
+ 03-29-2022 23:40:19.865 [main] INFO  Base.base - Successfully launched the website
+ 03-29-2022 23:40:20.810 [main] INFO  Base.base - clicked on accountlist btn
+ 03-29-2022 23:40:20.937 [main] INFO  Base.base - entered the username
+ 03-29-2022 23:40:21.836 [main] INFO  Base.base - entered the PWD
+ 03-29-2022 23:40:24.319 [main] INFO  Base.base - Home of application
+ 03-29-2022 23:40:25.066 [main] INFO  Base.base - Entering data for searching
+ 03-29-2022 23:40:27.340 [main] INFO  Base.base - Eligible for Pay On Delivery
+ 03-29-2022 23:40:30.360 [main] INFO  Base.base - smartphones

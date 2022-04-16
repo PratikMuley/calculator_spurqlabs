@@ -1,0 +1,18 @@
+https://www.amazon.in/
+Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+
+PASSED: login_fun
+PASSED: search_fun
+PASSED: browse
+
+===============================================
+    Default test
+    Tests run: 3, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 3, Passes: 3, Failures: 0, Skips: 0
+===============================================
+
